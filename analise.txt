@@ -1,0 +1,775 @@
+================================================ PROJECOES DE GANHOS ================================================
+
+
+
+- Feito por Ricardo Patrizi Scarpari00.00
+              Montante Total Investindo:   R$    7236.00
+              Diferenca:                   R$     136.00
+
+     Mes  3 - Montante Sem ter Investido:  R$   14200.00
+              Montante Total Investindo:   R$   14610.72
+              Diferenca:                   R$     410.72
+
+     Mes  4 - Montante Sem ter Investido:  R$   21300.00
+              Montante Total Investindo:   R$   22126.93
+              Diferenca:                   R$     826.93
+
+     Mes  5 - Montante Sem ter Investido:  R$   28400.00
+              Montante Total Investindo:   R$   29787.47
+              Diferenca:                   R$    1387.47
+
+     Mes  6 - Montante Sem ter Investido:  R$   40833.33
+              Montante Total Investindo:   R$   43019.22
+              Diferenca:                   R$    2185.89
+
+     Mes  7 - Montante Sem ter Investido:  R$   47933.33
+              Montante Total Investindo:   R$   51069.61
+              Diferenca:                   R$    3136.27
+
+     Mes  8 - Montante Sem ter Investido:  R$   55033.33
+              Montante Total Investindo:   R$   59275.00
+              Diferenca:                   R$    4241.67
+
+     Mes  9 - Montante Sem ter Investido:  R$   62133.33
+              Montante Total Investindo:   R$   67638.50
+              Diferenca:                   R$    5505.17
+
+     Mes 10 - Montante Sem ter Investido:  R$   69233.33
+              Montante Total Investindo:   R$   76163.27
+              Diferenca:                   R$    6929.94
+
+     Mes 11 - Montante Sem ter Investido:  R$   76333.33
+              Montante Total Investindo:   R$   84852.53
+              Diferenca:                   R$    8519.20
+
+     Mes 12 - Montante Sem ter Investido:  R$   88766.67
+              Montante Total Investindo:   R$   99133.59
+              Diferenca:                   R$   10366.92
+
+     Mes 13 - Montante Sem ter Investido:  R$   95866.67
+              Montante Total Investindo:   R$  108254.26
+              Diferenca:                   R$   12387.59
+
+     Mes 14 - Montante Sem ter Investido:  R$  103366.67
+              Montante Total Investindo:   R$  117958.14
+              Diferenca:                   R$   14591.48
+
+     Mes 15 - Montante Sem ter Investido:  R$  110866.67
+              Montante Total Investindo:   R$  127848.90
+              Diferenca:                   R$   16982.24
+
+     Mes 16 - Montante Sem ter Investido:  R$  118366.67
+              Montante Total Investindo:   R$  137930.28
+              Diferenca:                   R$   19563.62
+
+     Mes 17 - Montante Sem ter Investido:  R$  125866.67
+              Montante Total Investindo:   R$  148206.09
+              Diferenca:                   R$   22339.42
+
+     Mes 18 - Montante Sem ter Investido:  R$  138966.67
+              Montante Total Investindo:   R$  164375.41
+              Diferenca:                   R$   25408.74
+
+     Mes 19 - Montante Sem ter Investido:  R$  146466.67
+              Montante Total Investindo:   R$  175148.92
+              Diferenca:                   R$   28682.25
+
+     Mes 20 - Montante Sem ter Investido:  R$  153966.67
+              Montante Total Investindo:   R$  186130.70
+              Diferenca:                   R$   32164.03
+
+     Mes 21 - Montante Sem ter Investido:  R$  161466.67
+              Montante Total Investindo:   R$  197324.91
+              Diferenca:                   R$   35858.24
+
+     Mes 22 - Montante Sem ter Investido:  R$  168966.67
+              Montante Total Investindo:   R$  208735.81
+              Diferenca:                   R$   39769.14
+
+     Mes 23 - Montante Sem ter Investido:  R$  176466.67
+              Montante Total Investindo:   R$  220367.73
+              Diferenca:                   R$   43901.06
+
+     Mes 24 - Montante Sem ter Investido:  R$  189566.67
+              Montante Total Investindo:   R$  237920.28
+              Diferenca:                   R$   48353.61
+
+     Mes 25 - Montante Sem ter Investido:  R$  197066.67
+              Montante Total Investindo:   R$  250104.69
+              Diferenca:                   R$   53038.02
+
+     Mes 26 - Montante Sem ter Investido:  R$  204986.67
+              Montante Total Investindo:   R$  262952.72
+              Diferenca:                   R$   57966.05
+
+     Mes 27 - Montante Sem ter Investido:  R$  212906.67
+              Montante Total Investindo:   R$  276049.25
+              Diferenca:                   R$   63142.59
+
+     Mes 28 - Montante Sem ter Investido:  R$  220826.67
+              Montante Total Investindo:   R$  289399.26
+              Diferenca:                   R$   68572.59
+
+     Mes 29 - Montante Sem ter Investido:  R$  228746.67
+              Montante Total Investindo:   R$  303007.80
+              Diferenca:                   R$   74261.14
+
+     Mes 30 - Montante Sem ter Investido:  R$  242546.67
+              Montante Total Investindo:   R$  322860.02
+              Diferenca:                   R$   80313.35
+
+     Mes 31 - Montante Sem ter Investido:  R$  250466.67
+              Montante Total Investindo:   R$  337103.22
+              Diferenca:                   R$   86636.55
+
+     Mes 32 - Montante Sem ter Investido:  R$  258386.67
+              Montante Total Investindo:   R$  351622.82
+              Diferenca:                   R$   93236.16
+
+     Mes 33 - Montante Sem ter Investido:  R$  266306.67
+              Montante Total Investindo:   R$  366424.36
+              Diferenca:                   R$  100117.69
+
+     Mes 34 - Montante Sem ter Investido:  R$  274226.67
+              Montante Total Investindo:   R$  381513.47
+              Diferenca:                   R$  107286.80
+
+     Mes 35 - Montante Sem ter Investido:  R$  282146.67
+              Montante Total Investindo:   R$  396895.90
+              Diferenca:                   R$  114749.23
+
+     Mes 36 - Montante Sem ter Investido:  R$  295946.67
+              Montante Total Investindo:   R$  418557.48
+              Diferenca:                   R$  122610.81
+
+     Mes 37 - Montante Sem ter Investido:  R$  303866.67
+              Montante Total Investindo:   R$  434646.23
+              Diferenca:                   R$  130779.56
+
+-------------------------------------------------------------------------------------------------
+
+-> Tenente: 
+     Salario = R$9500   Gastos = R$900   Investimento Mensal = 85.0%  Rendimento Mensal = 2.0%
+
+     Mes  2 - Montante Sem ter Investido:  R$  312466.67
+              Montante Total Investindo:   R$  451739.85
+              Diferenca:                   R$  139273.18
+
+     Mes  3 - Montante Sem ter Investido:  R$  321066.67
+              Montante Total Investindo:   R$  469164.85
+              Diferenca:                   R$  148098.18
+
+     Mes  4 - Montante Sem ter Investido:  R$  329666.67
+              Montante Total Investindo:   R$  486927.84
+              Diferenca:                   R$  157261.18
+
+     Mes  5 - Montante Sem ter Investido:  R$  338266.67
+              Montante Total Investindo:   R$  505035.60
+              Diferenca:                   R$  166768.93
+
+     Mes  6 - Montante Sem ter Investido:  R$  353200.00
+              Montante Total Investindo:   R$  529936.01
+              Diferenca:                   R$  176736.01
+
+     Mes  7 - Montante Sem ter Investido:  R$  361800.00
+              Montante Total Investindo:   R$  548863.93
+              Diferenca:                   R$  187063.93
+
+     Mes  8 - Montante Sem ter Investido:  R$  370400.00
+              Montante Total Investindo:   R$  568159.91
+              Diferenca:                   R$  197759.91
+
+     Mes  9 - Montante Sem ter Investido:  R$  379000.00
+              Montante Total Investindo:   R$  587831.31
+              Diferenca:                   R$  208831.31
+
+     Mes 10 - Montante Sem ter Investido:  R$  387600.00
+              Montante Total Investindo:   R$  607885.64
+              Diferenca:                   R$  220285.64
+
+     Mes 11 - Montante Sem ter Investido:  R$  396200.00
+              Montante Total Investindo:   R$  628330.55
+              Diferenca:                   R$  232130.55
+
+     Mes 12 - Montante Sem ter Investido:  R$  411133.33
+              Montante Total Investindo:   R$  655614.86
+              Diferenca:                   R$  244481.53
+
+     Mes 13 - Montante Sem ter Investido:  R$  419733.33
+              Montante Total Investindo:   R$  676974.36
+              Diferenca:                   R$  257241.02
+
+     Mes 14 - Montante Sem ter Investido:  R$  428808.33
+              Montante Total Investindo:   R$  699233.62
+              Diferenca:                   R$  270425.29
+
+     Mes 15 - Montante Sem ter Investido:  R$  437883.33
+              Montante Total Investindo:   R$  721926.14
+              Diferenca:                   R$  284042.81
+
+     Mes 16 - Montante Sem ter Investido:  R$  446958.33
+              Montante Total Investindo:   R$  745060.59
+              Diferenca:                   R$  298102.26
+
+     Mes 17 - Montante Sem ter Investido:  R$  456033.33
+              Montante Total Investindo:   R$  768645.80
+              Diferenca:                   R$  312612.47
+
+     Mes 18 - Montante Sem ter Investido:  R$  471758.33
+              Montante Total Investindo:   R$  799453.84
+              Diferenca:                   R$  327695.51
+
+     Mes 19 - Montante Sem ter Investido:  R$  480833.33
+              Montante Total Investindo:   R$  824083.12
+              Diferenca:                   R$  343249.79
+
+     Mes 20 - Montante Sem ter Investido:  R$  489908.33
+              Montante Total Investindo:   R$  849193.06
+              Diferenca:                   R$  359284.72
+
+     Mes 21 - Montante Sem ter Investido:  R$  498983.33
+              Montante Total Investindo:   R$  874793.27
+              Diferenca:                   R$  375809.93
+
+     Mes 22 - Montante Sem ter Investido:  R$  508058.33
+              Montante Total Investindo:   R$  900893.56
+              Diferenca:                   R$  392835.22
+
+     Mes 23 - Montante Sem ter Investido:  R$  517133.33
+              Montante Total Investindo:   R$  927503.93
+              Diferenca:                   R$  410370.60
+
+     Mes 24 - Montante Sem ter Investido:  R$  532858.33
+              Montante Total Investindo:   R$  961397.63
+              Diferenca:                   R$  428539.30
+
+     Mes 25 - Montante Sem ter Investido:  R$  541933.33
+              Montante Total Investindo:   R$  989174.28
+              Diferenca:                   R$  447240.95
+
+     Mes 26 - Montante Sem ter Investido:  R$  551507.08
+              Montante Total Investindo:   R$ 1018001.77
+              Diferenca:                   R$  466494.69
+
+     Mes 27 - Montante Sem ter Investido:  R$  561080.83
+              Montante Total Investindo:   R$ 1047392.39
+              Diferenca:                   R$  486311.56
+
+     Mes 28 - Montante Sem ter Investido:  R$  570654.58
+              Montante Total Investindo:   R$ 1077357.40
+              Diferenca:                   R$  506702.82
+
+     Mes 29 - Montante Sem ter Investido:  R$  580228.33
+              Montante Total Investindo:   R$ 1107908.29
+              Diferenca:                   R$  527679.96
+
+     Mes 30 - Montante Sem ter Investido:  R$  596784.58
+              Montante Total Investindo:   R$ 1146157.98
+              Diferenca:                   R$  549373.39
+
+     Mes 31 - Montante Sem ter Investido:  R$  606358.33
+              Montante Total Investindo:   R$ 1178037.09
+              Diferenca:                   R$  571678.75
+
+     Mes 32 - Montante Sem ter Investido:  R$  615932.08
+              Montante Total Investindo:   R$ 1210540.36
+              Diferenca:                   R$  594608.27
+
+     Mes 33 - Montante Sem ter Investido:  R$  625505.83
+              Montante Total Investindo:   R$ 1243680.27
+              Diferenca:                   R$  618174.44
+
+     Mes 34 - Montante Sem ter Investido:  R$  635079.58
+              Montante Total Investindo:   R$ 1277469.56
+              Diferenca:                   R$  642389.98
+
+     Mes 35 - Montante Sem ter Investido:  R$  644653.33
+              Montante Total Investindo:   R$ 1311921.22
+              Diferenca:                   R$  667267.89
+
+     Mes 36 - Montante Sem ter Investido:  R$  661209.58
+              Montante Total Investindo:   R$ 1354149.69
+              Diferenca:                   R$  692940.11
+
+     Mes 37 - Montante Sem ter Investido:  R$  670783.33
+              Montante Total Investindo:   R$ 1390087.16
+              Diferenca:                   R$  719303.83
+
+-------------------------------------------------------------------------------------------------
+
+-> estag1: 
+     Salario = R$2000   Gastos = R$500   Investimento Mensal = 50.0%  Rendimento Mensal = 2.0%
+
+     Mes  1 - Montante Sem ter Investido:  R$    9000.00
+              Montante Total Investindo:   R$    9170.00
+              Diferenca:                   R$     170.00
+
+     Mes  2 - Montante Sem ter Investido:  R$   10500.00
+              Montante Total Investindo:   R$   10863.40
+              Diferenca:                   R$     363.40
+
+     Mes  3 - Montante Sem ter Investido:  R$   12000.00
+              Montante Total Investindo:   R$   12580.67
+              Diferenca:                   R$     580.67
+
+     Mes  4 - Montante Sem ter Investido:  R$   13500.00
+              Montante Total Investindo:   R$   14322.28
+              Diferenca:                   R$     822.28
+
+-------------------------------------------------------------------------------------------------
+
+-> estag2: 
+     Salario = R$2000   Gastos = R$500   Investimento Mensal = 50.0%  Rendimento Mensal = 2.0%
+
+     Mes  1 - Montante Sem ter Investido:  R$   12000.00
+              Montante Total Investindo:   R$   16423.45
+              Diferenca:                   R$    4423.45
+
+     Mes  2 - Montante Sem ter Investido:  R$   13500.00
+              Montante Total Investindo:   R$   18281.92
+              Diferenca:                   R$    4781.92
+
+     Mes  3 - Montante Sem ter Investido:  R$   15000.00
+              Montante Total Investindo:   R$   20167.56
+              Diferenca:                   R$    5167.56
+
+     Mes  4 - Montante Sem ter Investido:  R$   16500.00
+              Montante Total Investindo:   R$   22080.91
+              Diferenca:                   R$    5580.91
+
+     Mes  5 - Montante Sem ter Investido:  R$   18000.00
+              Montante Total Investindo:   R$   24022.53
+              Diferenca:                   R$    6022.53
+
+     Mes  6 - Montante Sem ter Investido:  R$   19500.00
+              Montante Total Investindo:   R$   25992.98
+              Diferenca:                   R$    6492.98
+
+     Mes  7 - Montante Sem ter Investido:  R$   21000.00
+              Montante Total Investindo:   R$   27992.84
+              Diferenca:                   R$    6992.84
+
+     Mes  8 - Montante Sem ter Investido:  R$   22500.00
+              Montante Total Investindo:   R$   30022.69
+              Diferenca:                   R$    7522.69
+
+     Mes  9 - Montante Sem ter Investido:  R$   24000.00
+              Montante Total Investindo:   R$   32083.15
+              Diferenca:                   R$    8083.15
+
+     Mes 10 - Montante Sem ter Investido:  R$   25500.00
+              Montante Total Investindo:   R$   34174.81
+              Diferenca:                   R$    8674.81
+
+     Mes 11 - Montante Sem ter Investido:  R$   27000.00
+              Montante Total Investindo:   R$   36298.31
+              Diferenca:                   R$    9298.31
+
+     Mes 12 - Montante Sem ter Investido:  R$   28500.00
+              Montante Total Investindo:   R$   38454.27
+              Diferenca:                   R$    9954.27
+
+     Mes 13 - Montante Sem ter Investido:  R$   30000.00
+              Montante Total Investindo:   R$   40643.36
+              Diferenca:                   R$   10643.36
+
+     Mes 14 - Montante Sem ter Investido:  R$   31500.00
+              Montante Total Investindo:   R$   42866.22
+              Diferenca:                   R$   11366.22
+
+     Mes 15 - Montante Sem ter Investido:  R$   33000.00
+              Montante Total Investindo:   R$   45123.55
+              Diferenca:                   R$   12123.55
+
+     Mes 16 - Montante Sem ter Investido:  R$   34500.00
+              Montante Total Investindo:   R$   47416.02
+              Diferenca:                   R$   12916.02
+
+     Mes 17 - Montante Sem ter Investido:  R$   36000.00
+              Montante Total Investindo:   R$   49744.34
+              Diferenca:                   R$   13744.34
+
+     Mes 18 - Montante Sem ter Investido:  R$   37500.00
+              Montante Total Investindo:   R$   52109.23
+              Diferenca:                   R$   14609.23
+
+     Mes 19 - Montante Sem ter Investido:  R$   39000.00
+              Montante Total Investindo:   R$   54511.41
+              Diferenca:                   R$   15511.41
+
+     Mes 20 - Montante Sem ter Investido:  R$   40500.00
+              Montante Total Investindo:   R$   56951.64
+              Diferenca:                   R$   16451.64
+
+     Mes 21 - Montante Sem ter Investido:  R$   42000.00
+              Montante Total Investindo:   R$   59430.67
+              Diferenca:                   R$   17430.67
+
+     Mes 22 - Montante Sem ter Investido:  R$   43500.00
+              Montante Total Investindo:   R$   61949.29
+              Diferenca:                   R$   18449.29
+
+     Mes 23 - Montante Sem ter Investido:  R$   45000.00
+              Montante Total Investindo:   R$   64508.27
+              Diferenca:                   R$   19508.27
+
+     Mes 24 - Montante Sem ter Investido:  R$   46500.00
+              Montante Total Investindo:   R$   67108.44
+              Diferenca:                   R$   20608.44
+
+     Mes 25 - Montante Sem ter Investido:  R$   48000.00
+              Montante Total Investindo:   R$   69750.61
+              Diferenca:                   R$   21750.61
+
+     Mes 26 - Montante Sem ter Investido:  R$   49500.00
+              Montante Total Investindo:   R$   72435.62
+              Diferenca:                   R$   22935.62
+
+     Mes 27 - Montante Sem ter Investido:  R$   51000.00
+              Montante Total Investindo:   R$   75164.33
+              Diferenca:                   R$   24164.33
+
+     Mes 28 - Montante Sem ter Investido:  R$   52500.00
+              Montante Total Investindo:   R$   77937.62
+              Diferenca:                   R$   25437.62
+
+     Mes 29 - Montante Sem ter Investido:  R$   54000.00
+              Montante Total Investindo:   R$   80756.37
+              Diferenca:                   R$   26756.37
+
+     Mes 30 - Montante Sem ter Investido:  R$   55500.00
+              Montante Total Investindo:   R$   83621.50
+              Diferenca:                   R$   28121.50
+
+     Mes 31 - Montante Sem ter Investido:  R$   57000.00
+              Montante Total Investindo:   R$   86533.93
+              Diferenca:                   R$   29533.93
+
+-------------------------------------------------------------------------------------------------
+
+-> inv1: 
+     Gastos = R$500  Rendimento Mensal = 4.0%
+
+     Mes  1 - Montante Sem ter Investido:  R$   13000.00
+              Montante Total Investindo:   R$   14315.17
+              Diferenca:                   R$    1315.17
+
+     Mes  2 - Montante Sem ter Investido:  R$   12500.00
+              Montante Total Investindo:   R$   14327.78
+              Diferenca:                   R$    1827.78
+
+     Mes  3 - Montante Sem ter Investido:  R$   12000.00
+              Montante Total Investindo:   R$   14360.89
+              Diferenca:                   R$    2360.89
+
+     Mes  4 - Montante Sem ter Investido:  R$   11500.00
+              Montante Total Investindo:   R$   14415.33
+              Diferenca:                   R$    2915.33
+
+     Mes  5 - Montante Sem ter Investido:  R$   11000.00
+              Montante Total Investindo:   R$   14491.94
+              Diferenca:                   R$    3491.94
+
+     Mes  6 - Montante Sem ter Investido:  R$   10500.00
+              Montante Total Investindo:   R$   14591.62
+              Diferenca:                   R$    4091.62
+
+-------------------------------------------------------------------------------------------------
+
+-> mf1: 
+     Salario = R$2000   Gastos = R$1000   Investimento Mensal = 30.0%  Rendimento Mensal = 2.0%
+
+     Mes  2 - Montante Sem ter Investido:  R$   58000.00
+              Montante Total Investindo:   R$   87835.93
+              Diferenca:                   R$   29835.93
+
+     Mes  3 - Montante Sem ter Investido:  R$   59000.00
+              Montante Total Investindo:   R$   89155.97
+              Diferenca:                   R$   30155.97
+
+     Mes  4 - Montante Sem ter Investido:  R$   60000.00
+              Montante Total Investindo:   R$   90494.41
+              Diferenca:                   R$   30494.41
+
+     Mes  5 - Montante Sem ter Investido:  R$   61000.00
+              Montante Total Investindo:   R$   91851.62
+              Diferenca:                   R$   30851.62
+
+     Mes  6 - Montante Sem ter Investido:  R$   63333.33
+              Montante Total Investindo:   R$   94569.30
+              Diferenca:                   R$   31235.97
+
+     Mes  7 - Montante Sem ter Investido:  R$   64333.33
+              Montante Total Investindo:   R$   95973.35
+              Diferenca:                   R$   31640.01
+
+     Mes  8 - Montante Sem ter Investido:  R$   65333.33
+              Montante Total Investindo:   R$   97397.47
+              Diferenca:                   R$   32064.13
+
+     Mes  9 - Montante Sem ter Investido:  R$   66333.33
+              Montante Total Investindo:   R$   98842.07
+              Diferenca:                   R$   32508.74
+
+     Mes 10 - Montante Sem ter Investido:  R$   67333.33
+              Montante Total Investindo:   R$  100307.57
+              Diferenca:                   R$   32974.23
+
+     Mes 11 - Montante Sem ter Investido:  R$   68333.33
+              Montante Total Investindo:   R$  101794.37
+              Diferenca:                   R$   33461.04
+
+     Mes 12 - Montante Sem ter Investido:  R$   95666.67
+              Montante Total Investindo:   R$  129794.25
+              Diferenca:                   R$   34127.58
+
+     Mes 13 - Montante Sem ter Investido:  R$   96666.67
+              Montante Total Investindo:   R$  131486.12
+              Diferenca:                   R$   34819.46
+
+     Mes 14 - Montante Sem ter Investido:  R$   98266.67
+              Montante Total Investindo:   R$  133807.43
+              Diferenca:                   R$   35540.77
+
+     Mes 15 - Montante Sem ter Investido:  R$   99866.67
+              Montante Total Investindo:   R$  136158.77
+              Diferenca:                   R$   36292.10
+
+     Mes 16 - Montante Sem ter Investido:  R$  101466.67
+              Montante Total Investindo:   R$  138540.73
+              Diferenca:                   R$   37074.07
+
+     Mes 17 - Montante Sem ter Investido:  R$  103066.67
+              Montante Total Investindo:   R$  140953.94
+              Diferenca:                   R$   37887.27
+
+     Mes 18 - Montante Sem ter Investido:  R$  106400.00
+              Montante Total Investindo:   R$  145142.74
+              Diferenca:                   R$   38742.74
+
+     Mes 19 - Montante Sem ter Investido:  R$  108000.00
+              Montante Total Investindo:   R$  147630.91
+              Diferenca:                   R$   39630.91
+
+     Mes 20 - Montante Sem ter Investido:  R$  109600.00
+              Montante Total Investindo:   R$  150152.45
+              Diferenca:                   R$   40552.45
+
+     Mes 21 - Montante Sem ter Investido:  R$  111200.00
+              Montante Total Investindo:   R$  152708.02
+              Diferenca:                   R$   41508.02
+
+     Mes 22 - Montante Sem ter Investido:  R$  112800.00
+              Montante Total Investindo:   R$  155298.30
+              Diferenca:                   R$   42498.30
+
+     Mes 23 - Montante Sem ter Investido:  R$  114400.00
+              Montante Total Investindo:   R$  157923.99
+              Diferenca:                   R$   43523.99
+
+     Mes 24 - Montante Sem ter Investido:  R$  142733.33
+              Montante Total Investindo:   R$  187479.53
+              Diferenca:                   R$   44746.19
+
+     Mes 25 - Montante Sem ter Investido:  R$  144333.33
+              Montante Total Investindo:   R$  190341.77
+              Diferenca:                   R$   46008.44
+
+     Mes 26 - Montante Sem ter Investido:  R$  146713.33
+              Montante Total Investindo:   R$  194029.54
+              Diferenca:                   R$   47316.21
+
+     Mes 27 - Montante Sem ter Investido:  R$  149093.33
+              Montante Total Investindo:   R$  197763.75
+              Diferenca:                   R$   48670.41
+
+     Mes 28 - Montante Sem ter Investido:  R$  151473.33
+              Montante Total Investindo:   R$  201545.32
+              Diferenca:                   R$   50071.98
+
+     Mes 29 - Montante Sem ter Investido:  R$  153853.33
+              Montante Total Investindo:   R$  205375.20
+              Diferenca:                   R$   51521.87
+
+     Mes 30 - Montante Sem ter Investido:  R$  158486.67
+              Montante Total Investindo:   R$  211521.21
+              Diferenca:                   R$   53034.54
+
+     Mes 31 - Montante Sem ter Investido:  R$  160866.67
+              Montante Total Investindo:   R$  215464.42
+              Diferenca:                   R$   54597.76
+
+     Mes 32 - Montante Sem ter Investido:  R$  163246.67
+              Montante Total Investindo:   R$  219459.18
+              Diferenca:                   R$   56212.51
+
+     Mes 33 - Montante Sem ter Investido:  R$  165626.67
+              Montante Total Investindo:   R$  223506.51
+              Diferenca:                   R$   57879.84
+
+     Mes 34 - Montante Sem ter Investido:  R$  168006.67
+              Montante Total Investindo:   R$  227607.47
+              Diferenca:                   R$   59600.80
+
+     Mes 35 - Montante Sem ter Investido:  R$  170386.67
+              Montante Total Investindo:   R$  231763.13
+              Diferenca:                   R$   61376.46
+
+     Mes 36 - Montante Sem ter Investido:  R$  200020.00
+              Montante Total Investindo:   R$  263391.43
+              Diferenca:                   R$   63371.43
+
+     Mes 37 - Montante Sem ter Investido:  R$  202400.00
+              Montante Total Investindo:   R$  267826.58
+              Diferenca:                   R$   65426.58
+
+-------------------------------------------------------------------------------------------------
+
+-> Diferenca MILITAR/MF:
+
+     Mes  1 - Militar      :  R$  451739.85
+              MF           :  R$   87835.93
+              Diferenca    :  R$  363903.92
+
+     Mes  2 - Militar      :  R$  469164.85
+              MF           :  R$   89155.97
+              Diferenca    :  R$  380008.88
+
+     Mes  3 - Militar      :  R$  486927.84
+              MF           :  R$   90494.41
+              Diferenca    :  R$  396433.44
+
+     Mes  4 - Militar      :  R$  505035.60
+              MF           :  R$   91851.62
+              Diferenca    :  R$  413183.98
+
+     Mes  5 - Militar      :  R$  529936.01
+              MF           :  R$   94569.30
+              Diferenca    :  R$  435366.71
+
+     Mes  6 - Militar      :  R$  548863.93
+              MF           :  R$   95973.35
+              Diferenca    :  R$  452890.59
+
+     Mes  7 - Militar      :  R$  568159.91
+              MF           :  R$   97397.47
+              Diferenca    :  R$  470762.44
+
+     Mes  8 - Militar      :  R$  587831.31
+              MF           :  R$   98842.07
+              Diferenca    :  R$  488989.24
+
+     Mes  9 - Militar      :  R$  607885.64
+              MF           :  R$  100307.57
+              Diferenca    :  R$  507578.07
+
+     Mes 10 - Militar      :  R$  628330.55
+              MF           :  R$  101794.37
+              Diferenca    :  R$  526536.18
+
+     Mes 11 - Militar      :  R$  655614.86
+              MF           :  R$  129794.25
+              Diferenca    :  R$  525820.61
+
+     Mes 12 - Militar      :  R$  676974.36
+              MF           :  R$  131486.12
+              Diferenca    :  R$  545488.23
+
+     Mes 13 - Militar      :  R$  699233.62
+              MF           :  R$  133807.43
+              Diferenca    :  R$  565426.19
+
+     Mes 14 - Militar      :  R$  721926.14
+              MF           :  R$  136158.77
+              Diferenca    :  R$  585767.37
+
+     Mes 15 - Militar      :  R$  745060.59
+              MF           :  R$  138540.73
+              Diferenca    :  R$  606519.86
+
+     Mes 16 - Militar      :  R$  768645.80
+              MF           :  R$  140953.94
+              Diferenca    :  R$  627691.87
+
+     Mes 17 - Militar      :  R$  799453.84
+              MF           :  R$  145142.74
+              Diferenca    :  R$  654311.11
+
+     Mes 18 - Militar      :  R$  824083.12
+              MF           :  R$  147630.91
+              Diferenca    :  R$  676452.21
+
+     Mes 19 - Militar      :  R$  849193.06
+              MF           :  R$  150152.45
+              Diferenca    :  R$  699040.60
+
+     Mes 20 - Militar      :  R$  874793.27
+              MF           :  R$  152708.02
+              Diferenca    :  R$  722085.24
+
+     Mes 21 - Militar      :  R$  900893.56
+              MF           :  R$  155298.30
+              Diferenca    :  R$  745595.25
+
+     Mes 22 - Militar      :  R$  927503.93
+              MF           :  R$  157923.99
+              Diferenca    :  R$  769579.94
+
+     Mes 23 - Militar      :  R$  961397.63
+              MF           :  R$  187479.53
+              Diferenca    :  R$  773918.11
+
+     Mes 24 - Militar      :  R$  989174.28
+              MF           :  R$  190341.77
+              Diferenca    :  R$  798832.51
+
+     Mes 25 - Militar      :  R$ 1018001.77
+              MF           :  R$  194029.54
+              Diferenca    :  R$  823972.23
+
+     Mes 26 - Militar      :  R$ 1047392.39
+              MF           :  R$  197763.75
+              Diferenca    :  R$  849628.64
+
+     Mes 27 - Militar      :  R$ 1077357.40
+              MF           :  R$  201545.32
+              Diferenca    :  R$  875812.08
+
+     Mes 28 - Militar      :  R$ 1107908.29
+              MF           :  R$  205375.20
+              Diferenca    :  R$  902533.09
+
+     Mes 29 - Militar      :  R$ 1146157.98
+              MF           :  R$  211521.21
+              Diferenca    :  R$  934636.77
+
+     Mes 30 - Militar      :  R$ 1178037.09
+              MF           :  R$  215464.42
+              Diferenca    :  R$  962572.66
+
+     Mes 31 - Militar      :  R$ 1210540.36
+              MF           :  R$  219459.18
+              Diferenca    :  R$  991081.18
+
+     Mes 32 - Militar      :  R$ 1243680.27
+              MF           :  R$  223506.51
+              Diferenca    :  R$ 1020173.76
+
+     Mes 33 - Militar      :  R$ 1277469.56
+              MF           :  R$  227607.47
+              Diferenca    :  R$ 1049862.09
+
+     Mes 34 - Militar      :  R$ 1311921.22
+              MF           :  R$  231763.13
+              Diferenca    :  R$ 1080158.09
+
+     Mes 35 - Militar      :  R$ 1354149.69
+              MF           :  R$  263391.43
+              Diferenca    :  R$ 1090758.26
+
+     Mes 36 - Militar      :  R$ 1390087.16
+              MF           :  R$  267826.58
+              Diferenca    :  R$ 1122260.58
+
+-------------------------------------------------------------------------------------------------
+
